@@ -1,2 +1,3 @@
-# React-weather-forecast
-Created with CodeSandbox
+# React Weather Forecast App
+
+Created by JAJoyce with CodeSandbox

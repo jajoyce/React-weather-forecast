@@ -12,7 +12,7 @@ export default [
   {
     img:
       "http://res.cloudinary.com/jkeohan/image/upload/v1535732381/stormy.svg",
-    conditions: "Thuderstorms",
+    conditions: "Thuderstorm",
     time: "Day"
   },
   {

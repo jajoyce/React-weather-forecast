@@ -2,7 +2,7 @@ import React from "react";
 
 const WeatherForecast = (props) => {
   return (
-    <div class="weather">
+    <div className="weather">
       <img src={props.img} alt="Weather icon" />
       <p>
         <span>Conditions:</span> {props.conditions}
